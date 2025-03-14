@@ -1,0 +1,13 @@
+pip==24.0
+lightning
+rasterio
+patool
+ray[tune]
+hpbandster 
+ConfigSpace
+tqdm
+pandas
+scikit-learn
+POT # python optimal transport package
+git+https://github.com/qubvel/segmentation_models.pytorch # segmentation models pytroch
+git+https://github.com/albumentations-team/albumentations # albumentations
